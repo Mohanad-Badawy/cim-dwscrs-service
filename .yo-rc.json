@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.etisalat.cim",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "microservice",
+    "baseName": "dwscrs",
+    "packageName": "com.etisalat.cim",
+    "packageFolder": "com/etisalat/cim",
+    "serverPort": "9100",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDEwMWQyODlhNWExNDIyOWE2YTliZGM4NDNlODU3YjAzNWU4N2YwNGYwNDVkNzJhY2U4ZWRiMTliM2IyMDZjNDliODFkMWQ0ZjE1NjQ5OTBiN2M3NDc0MGQ5NjExNDRhMzIyZjFkNGIyOTM4ODY0ZGYwNDI4ZDM2NDRkZGNkMDg=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
